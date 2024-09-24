@@ -8,10 +8,10 @@
   },
   "author": "Bruno Rodrigues",
   "dependencies": {
-    "ejs": "^3.1.6",
-    "express": "^4.17.1",
-    "mongoose": "^6.1.6",
+    "ejs": "^3.1.10",
+    "express": "^4.20.0",
+    "mongoose": "^6.11.3",
     "multer": "^1.4.4",
-    "nodemon": "^2.0.14"
+    "nodemon": "^3.1.7"
   }
 }
