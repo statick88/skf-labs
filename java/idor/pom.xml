@@ -41,7 +41,7 @@
 		<dependency>
 			<groupId>com.itextpdf</groupId>
 			<artifactId>itextpdf</artifactId>
-			<version>5.5.13.2</version>
+			<version>5.5.13.3</version>
 		</dependency>
 		<dependency>
 			<groupId>org.apache.pdfbox</groupId>
@@ -51,7 +51,7 @@
 		<dependency>
             <groupId>commons-io</groupId>
             <artifactId>commons-io</artifactId>
-            <version>2.11.0</version>
+            <version>2.14.0</version>
         </dependency>
 
 	</dependencies>
